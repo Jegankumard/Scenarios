@@ -5,6 +5,8 @@ The app should be provisioned under the Consumption plan, with a backing storage
 The function code should be modified to return a simple greeting using the student’s name.
 The app tests successfully by returning a simple greeting when run.
 
+#### Reference: https://gorillalogic.com/blog/azure-developer-tutorial-http-trigger-functions-with-c-and-net-core/
+
 ## Extend the Project by Adding a NuGet Package Configuration
 A function.proj file should be created in the function project.
 The function.proj file includes the proper NuGet package reference to an HTML parser library.
